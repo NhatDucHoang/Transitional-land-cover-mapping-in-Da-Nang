@@ -1,4 +1,5 @@
 Abstract
+
 Da Nang city has currently experiencing rapid land use transitions as a result of urban expansion and infrastructure development. 
 This study proposes an advanced framework integrating machine learning, remote sensing, and statistical analysis to evaluate the transitional land cover in 2024. 
 Random forest model coupled with Sentinel-2 remote sensing data is used to recognize transitional land cover. 
